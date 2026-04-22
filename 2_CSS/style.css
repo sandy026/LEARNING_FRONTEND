@@ -1,0 +1,22 @@
+/* --Universal Selector */
+*{
+   text-font:iran;
+}
+body{
+    font:segoe UI,verdana, sans-serif;
+    background-color:aliceblue;
+    color:#333;
+    line-height:1/6m
+}
+/* --Elemental Selector */
+h2{
+    color:rgb(171, 57, 92);
+}
+/* --Id selector */
+#section1{
+
+}
+/* --Class selector */
+.main{
+
+} 
